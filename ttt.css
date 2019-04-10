@@ -1,0 +1,83 @@
+*{
+font-family: sans-serif;
+background: url(fon.png);
+margin: 0 ;
+padding: 0 ;
+}
+
+header, footer{
+	width: 100%;
+	min-height: 100px;
+}
+
+a{
+	color: black;
+	text-decoration:none;
+}
+a:hover{
+	color: blue;
+}
+header{
+	font-family: RodchenkoCTT, sans-serif;
+	font-size: 76px;
+	padding-top: 20px;
+	padding-left: 10%;
+	text-shadow: silver 7px 8px 1px;
+}
+
+.social{
+	font-size: 22px;
+	padding-top: 5px;
+	padding-left: 10%;
+	float: left;
+	word-spacing: 10px;
+
+}
+
+.foto{
+		padding-right: 10%;
+
+}
+.foto img {
+width:2%;
+float: right;
+padding-top: 5px;
+padding-right:5px;
+
+}
+
+main{
+	width: 100%;
+}
+
+main p{
+	color: #434444;
+	font-size: 20px;
+	padding-left: 11%;
+	padding-top: 2%;
+}
+
+.cool{
+  padding-left:10%;
+ padding-top: 5%;
+ width: 80%;
+}
+
+.buy{
+	padding-top: 2%;
+}
+ 
+.buy img{
+	width: 20%;
+	padding-left: 10%;
+}
+
+
+.stroka{
+	font-size: 14px;
+	color: #434444;
+	padding-left: 11%;
+}
+.b{
+	padding-left: 27%;
+}
